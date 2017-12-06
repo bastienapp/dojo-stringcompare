@@ -5,12 +5,12 @@ La méthode retournera -1 si les chaînes n'ont pas la même longueur.
 
 Exemples :
 
-	chaine1		chaine2		retour
-	"a"			"a"			1
-	"a"			"b"			0
-	"aa"		"ba"		1
-	"cassis"	"castor"	3
-	"tacos"		"poulpe"	-1
+	chaine1  chaine2  retour
+	"a"      "a"       1
+	"a"      "b"       0
+	"aa"     "ba"      1
+	"cassis" "castor"  3
+	"tacos"  "poulpe" -1
 
 Rappel des commandes junit :
 
